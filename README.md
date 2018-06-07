@@ -90,7 +90,7 @@ option
     "title" : "2018 전자정보박람회 부재자 경품수령 안내", 
     "contents" : "지난 17일 우중에도 전자정보박람회에 참여해주신 여러분께 감사드립니다. ", 
     "date" : " 2018-05-18 11:17:18", 
-    "authors" : "김나름", 
+    "author" : "김나름", 
     "attachedFiles" : [{ 
         "attachedFileId: "330760", 
         "title": "경품수령.jpg", 
@@ -113,7 +113,7 @@ Notice Object
   - title : 공지사항의 제목 
   - contents : 공지사항의 내용 
   - date : 공지사항 게시일자 
-  - writer : 공지사항 작성자 
+  - author : 공지사항 작성자 
 - attachedFiles : 공지사항에 첨부된 파일의 오브젝트 
   - attachedFileId : 첨부파일 고유번호 
   - title : 첨부파일 이름 
