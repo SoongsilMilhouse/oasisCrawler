@@ -125,7 +125,7 @@ Notice Object
 ## License 
 
 ``` 
-Copyright 2018 SSUmunity 
+Copyright 2018 Ben 
  
 Licensed under the Apache License, Version 2.0 (the "License"); 
 you may not use this file except in compliance with the License. 
